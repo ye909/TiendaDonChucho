@@ -21,3 +21,16 @@ C:\Users\alexy\Music\PruebaGitFlow\archivoSQL_Ado.Net\DonChucho\DonChucho\obj\De
 C:\Users\alexy\source\repos\DonChucho\DonChucho\obj\Debug\DonChucho.Form1.resources
 C:\Users\alexy\source\repos\DonChucho\DonChucho\obj\Debug\DonChucho.ProcedimientoAlmacenado1.resources
 C:\Users\alexy\source\repos\DonChucho\DonChucho\obj\Debug\DonChucho.ProcedimientoAlmacenado2.resources
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\bin\Debug\DonChucho.exe.config
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\bin\Debug\DonChucho.exe
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\bin\Debug\DonChucho.pdb
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.csproj.AssemblyReference.cache
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.Form1.resources
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.ProcedimientoAlmacenado1.resources
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.ProcedimientoAlmacenado2.resources
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.TuFormulario.resources
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.Properties.Resources.resources
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.csproj.GenerateResource.cache
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.csproj.CoreCompileInputs.cache
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.exe
+C:\Users\alexy\Source\Repos\TiendaDonChucho\DonChucho\DonChucho\obj\Debug\DonChucho.pdb

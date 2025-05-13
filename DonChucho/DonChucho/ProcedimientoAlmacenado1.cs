@@ -178,7 +178,7 @@ namespace DonChucho
                 MessageBox.Show("Por favor selecciona una fila completa para editar.");
             }
         }
-
+        //
         private void dataGridViewPro_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             TiendaDonChucho tienda = new TiendaDonChucho();
@@ -191,6 +191,11 @@ namespace DonChucho
             {
                 MessageBox.Show("No se pudieron obtener los productos de la base de datos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
 
         }
     }
