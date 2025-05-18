@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DonChucho.Modelo
+namespace DonChucho.ModeloDB
 {
     public class TipoProducto
     {
